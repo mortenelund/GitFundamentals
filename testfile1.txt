@@ -1,1 +1,2 @@
 Dette er testfile 1, linje 1
+Dette er testfile 1, linje 2
