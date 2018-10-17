@@ -1,2 +1,10 @@
 Dette er testfile 1, linje 1
 Dette er testfile 1, linje 2
+Dette er testfile 1, linje 3
+Dette er testfile 1, linje 4
+Dette er testfile 1, linje 5
+Dette er testfile 1, linje 6
+Dette er testfile 1, linje 7
+Dette er testfile 1, linje 8
+Dette er testfile 1, linje 9
+Dette er testfile 1, linje 10
